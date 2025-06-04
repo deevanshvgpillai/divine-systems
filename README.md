@@ -40,7 +40,7 @@ vercel --prod
 
 Or use the one-click deploy button:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/YOUR_GITHUB_USERNAME/divine-systems)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/deevanshvgpillai/divine-systems)
 
 ## 📜 License
 
